@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohammed nasiru
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is  Nasiru Mohammed
 =======================================================================================================================================
 
-I am a datascientist and a student of biochemistry
+I am a biochemist interested in using Data to solve health related issues
 --------------------------------------------------
 
 * 🌍  I'm based in kaduna, Nigeria
